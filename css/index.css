@@ -12,7 +12,7 @@ body {
 
 .pizza {
     text-align: left;
-    margin-left: 300px;
+    margin-left: 377px;
     font-size: 35px;
     font-family: cursive;
     margin-top: 10px;
@@ -21,13 +21,13 @@ body {
 .pizzaimg {
     height: 300px;
     width: 400px;
-    margin-left: 200px;
+    margin-left: 100px;
     border: 5px solid #23231A;
 }
 
 .pasta {
     text-align: left;
-    margin-left: 373px;
+    margin-left: 365px;
     font-size: 35px;
     font-family: cursive;
     margin-top: 10px;
@@ -36,13 +36,13 @@ body {
 .pastaimg {
     height: 300px;
     width: 400px;
-    margin-left: 100px;
+    margin-left: 200px;
     border: 5px solid #AFD2E9;
 }
 
 .dessert {
     text-align: left;
-    margin-left: 425px;
+    margin-left: 355px;
     font-size: 35px;
     font-family: cursive;
     margin-top: 10px;
