@@ -23,10 +23,11 @@ body {
 
 .pizza {
     text-align: left;
-    margin-left: 290px;
+    margin-left: 270px;
     font-size: 35px;
-    font-family: cursive;
+    font-family: sans-serif;
     margin-top: 10px;
+    color: #333333;
 }
 
 .pizzaimg {
@@ -38,10 +39,11 @@ body {
 
 .pasta {
     text-align: left;
-    margin-left: 287px;
+    margin-left: 275px;
     font-size: 35px;
-    font-family: cursive;
+    font-family: sans-serif;
     margin-top: 10px;
+    color: #333333;
 }
 
 .pastaimg {
@@ -53,10 +55,11 @@ body {
 
 .dessert {
     text-align: left;
-    margin-left: 280px;
+    margin-left: 255px;
     font-size: 35px;
-    font-family: cursive;
+    font-family: sans-serif;
     margin-top: 10px;
+    color: #333333;
 }
 
 .dessertimg {
@@ -73,3 +76,18 @@ body {
 .pizza, .pasta, .dessert {
     display: inline-block;
 }
+
+#pastabt {
+    margin-left: 345px;
+}
+
+#pizzabt {
+    margin-left: 380px;
+}
+
+#dessertbt {
+    margin-left: 375px;
+}
+
+
+
