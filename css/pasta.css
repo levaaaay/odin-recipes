@@ -1,5 +1,5 @@
 body {
-    background-color: #90C1E0;
+    background-color: #9FC9E5;
 }
 
 .pastaimg {
@@ -16,14 +16,14 @@ body {
 .header1 {
     margin-left: 560px;
     margin-top: 0px;
-    color: #FFFFFF;
+    color: #021F27;
     font-family: monospace;
     font-size: 70px;
 }
 
 .desc {
     margin-left: 560px;
-    color: #FFFFFF;
+    color: #043E4E;
     font-family: monospace;
     vertical-align: middle;
     font-size: 20px;
@@ -42,14 +42,48 @@ body {
     margin-left: 150px;
     font-family: monospace; 
     font-size: 50px;
-    color: white;
+    color: #021F27;
 }
 
 .ingre {
-    color: white;
+    color: #043E4E;
     font-family: monospace;
     font-weight: 700;
     font-size: 20px;
     margin-left: 40px;
     line-height: 40px;
 }
+
+.steps {
+    color: #043E4E;
+    font-family: monospace;
+    font-weight: 700;
+    font-size: 30px;
+    margin-left: 40px;
+    line-height: 40px;
+}
+
+.stepdesc {
+    color: #043E4E;
+    font-family: monospace;
+    font-weight: 700;
+    font-size: 18px;
+    margin-left: 40px;
+    line-height: 40px;
+}
+
+.info {
+    float:right;
+    margin-right: 300px;
+    margin-top: 50px;
+    color: #043E4E;
+    font-size: 20px;
+    border: 5px solid #5FA5D3;
+    padding: 20px;
+    font-family: monospace;
+}
+
+.boldinfo {
+    color: #021F27;
+}
+
