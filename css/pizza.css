@@ -11,23 +11,23 @@ body {
 
 .pizzaimg {
     border: 4px solid #BABAA1;
-    width:480px;
-    height: 350px;
+    width: 700px;
+    height: 525px;
     float: left;
     margin-left: 40px;
-    margin-top: 0px;
+    margin-top: 60px;
 }
 
 .header1 {
-    margin-left: 560px;
-    margin-top: 0px;
+    margin-left: 780px;
+    margin-top: 60px;
     color: #171711;
     font-family: monospace;
     font-size: 70px;
 }
 
 .desc {
-    margin-left: 560px;
+    margin-left: 780px;
     color: #2F2F23;
     font-family: monospace;
     vertical-align: middle;
